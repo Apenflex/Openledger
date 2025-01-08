@@ -136,7 +136,7 @@ echo "7. Recommended: Review and customize firewall rules"
 echo "===== END OF INSTRUCTIONS ====="
 
 # Optionally, uncomment the following line to automatically install OpenLedger Node
-# install_openledger_node
+install_openledger_node
 
 # Log the end of script execution
 log "Script execution completed"
